@@ -3,8 +3,7 @@
 ## Energia 1.8.10E23 (12/17/2019)  
 これを用いる。ボードをアップデートすると動作する  
 
-i2c
-
+## i2c
 ~~~
 https://github.com/energia/Energia/issues/486
 msp430g2553で arduinoのi2c scanerがDS3231 AT24C32に対して動いた。
