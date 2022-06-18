@@ -1,5 +1,9 @@
 # msp430_project
 
+# todo 
+## pack date について学ぶ。 
+https://github.com/gutierrezps/ESP32_I2C_Slave/blob/master/src/WirePacker.cpp  
+
 ## Energia 1.8.10E23 (12/17/2019)  
 これを用いる。ボードをアップデートすると動作する  
 
